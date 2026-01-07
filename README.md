@@ -64,3 +64,7 @@ The Expected Threat (xT) framework was originally introduced by Karun Singh on h
 
 Distributed under the terms of the [MIT license](https://opensource.org/licenses/MIT),
 socceraction is free and open source software. Although not strictly required, we appreciate it if you include a link to this repo or cite our research in your work if you make use of socceraction.
+
+## Acknowledgments
+
+Funding for this project has been provided by the Flemish Government under the "Onderzoeksprogramma Artificiële Intelligentie (AI) Vlaanderen" programme.
